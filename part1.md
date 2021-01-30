@@ -41,7 +41,7 @@ Hybrid cloud	| This computing environment combines a public cloud and a private 
 
 The following image illustrates several of the cloud computing concepts that are presented in this unit. In this example, several factors are demonstrated when you're considering where to deploy a database server in a hybrid cloud environment. As your resources move from on-premises to off-premises, your costs are reduced, and your administration requirements decrease.
 
-![image]('https://github.com/lolaeva/azure-fundamentals/blob/main/cloud-computing-continuum.png')
+![image]('https://user-images.githubusercontent.com/46975718/106366109-bfb56d00-634a-11eb-9102-47e6db0db1cd.png')
 
 ## What is Azure?
 Azure is a continually expanding set of cloud services that help your organization meet your current and future business challenges. Azure gives you the freedom to build, manage, and deploy applications on a massive global network using your favorite tools and frameworks.
